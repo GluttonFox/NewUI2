@@ -1,0 +1,15 @@
+C:\Users\16418\source\repos\NewUI\obj\Debug\net6.0-windows\NewUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\16418\source\repos\NewUI\obj\Debug\net6.0-windows\NewUI.AssemblyInfoInputs.cache
+C:\Users\16418\source\repos\NewUI\obj\Debug\net6.0-windows\NewUI.AssemblyInfo.cs
+C:\Users\16418\source\repos\NewUI\obj\Debug\net6.0-windows\NewUI.csproj.CoreCompileInputs.cache
+C:\Users\16418\source\repos\NewUI\obj\Debug\net6.0-windows\NewUI.sourcelink.json
+C:\Users\16418\source\repos\NewUI\bin\Debug\net6.0-windows\NewUI.exe
+C:\Users\16418\source\repos\NewUI\bin\Debug\net6.0-windows\NewUI.deps.json
+C:\Users\16418\source\repos\NewUI\bin\Debug\net6.0-windows\NewUI.runtimeconfig.json
+C:\Users\16418\source\repos\NewUI\bin\Debug\net6.0-windows\NewUI.dll
+C:\Users\16418\source\repos\NewUI\bin\Debug\net6.0-windows\NewUI.pdb
+C:\Users\16418\source\repos\NewUI\obj\Debug\net6.0-windows\NewUI.dll
+C:\Users\16418\source\repos\NewUI\obj\Debug\net6.0-windows\refint\NewUI.dll
+C:\Users\16418\source\repos\NewUI\obj\Debug\net6.0-windows\NewUI.pdb
+C:\Users\16418\source\repos\NewUI\obj\Debug\net6.0-windows\NewUI.genruntimeconfig.cache
+C:\Users\16418\source\repos\NewUI\obj\Debug\net6.0-windows\ref\NewUI.dll

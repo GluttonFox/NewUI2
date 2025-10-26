@@ -1,0 +1,5 @@
+C:\Users\16418\source\repos\NewUI\obj\Debug\net6.0\NewUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\16418\source\repos\NewUI\obj\Debug\net6.0\NewUI.AssemblyInfoInputs.cache
+C:\Users\16418\source\repos\NewUI\obj\Debug\net6.0\NewUI.AssemblyInfo.cs
+C:\Users\16418\source\repos\NewUI\obj\Debug\net6.0\NewUI.csproj.CoreCompileInputs.cache
+C:\Users\16418\source\repos\NewUI\obj\Debug\net6.0\NewUI.sourcelink.json
